@@ -1,2 +1,11 @@
 [
+  {
+    "title": "Camista Argentina 94",
+    "description": "replica de la orignial/camiseta retro",
+    "price": 5500,
+    "thumbnail": "https://media.tycsports.com/files/2022/07/08/449801/camiseta-argentina-1994_w416.webp",
+    "code": "ARG94",
+    "stock": 10,
+    "id": 1
+  }
 ]
