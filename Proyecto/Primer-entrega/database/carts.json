@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4d00c5e4-4740-4f12-b2ed-7a7065ff3e8a",
+    "products": [
+      {
+        "id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 4,
+        "quantity": 3
+      },
+      {
+        "id": 5,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "id": "d7dbeb7b-78a0-4876-87d1-5bd3198afbbb",
+    "products": []
+  }
+]

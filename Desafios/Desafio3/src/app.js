@@ -53,7 +53,9 @@ app.get("/productos/:pid", async (req, res) => {
 app.put("/productos/:pid", async (req, res) => {
   let upd;
   try {
-    upd = new Products({ id: Number(req.params.pid), ...req.body });
+    // upd = new Products({ id: Number(req.params.pid), ...req.body });
+    upd = { ...req.body };
+    console.log(upd);
   } catch (error) {
     res.status(400).json({ message: error.message });
   }
